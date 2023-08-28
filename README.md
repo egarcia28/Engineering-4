@@ -56,7 +56,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 ### Test Link
-[Hyperlink text](test.py)
+[[Hyperlink text](test.py)]
 ### Test Image
 ![orange-web](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/6127dc21-3804-4ee5-8a91-88cbde355311)
 ### Test GIF
