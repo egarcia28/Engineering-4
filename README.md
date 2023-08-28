@@ -23,7 +23,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
 
 ### Code
-Give me a link to your code. {here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/test.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+Give me a link to your code. [here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/test.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
 
 ### Reflection
 
@@ -56,7 +56,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 ### Test Link
-[Hyperlink text](bing.com)
+[hehe](bing.com)
 ### Test Image
 ![orange-web](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/orange-web.jpg)
 ### Test GIF
