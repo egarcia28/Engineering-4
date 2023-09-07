@@ -3,27 +3,24 @@
 &nbsp;
 
 ## Table of Contents
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Launchpad 1](#Raspberry_Pi_Launchpad_1)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Raspberry_Pi_Launchpad_1
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+For this assignment we were tasked with creating a countdown from 10 that displayed on the serial moniter, at the end of the countdown, LIFTOFF should be printed.
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
-
-### Wiring
-
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+![ezgif-3-b980af260b](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/d6981811-ca07-442e-838a-f10ebdc2a6cd)
 
 ### Code
-Give me a link to your code. [here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/test.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_1.py)
 
 ### Reflection
 
