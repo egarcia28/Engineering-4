@@ -70,13 +70,34 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) and [
 
 ### Code
 
-[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_2.py)
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_3.py)
 
 ### Reflection
 
+&nbsp;
 
+## Raspberry_Pi_Launchpad_4
+
+### Assignment Description
+
+For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](#Raspberry_Pi_Launchpad_2), and [3](#Raspberry_Pi_Launchpad_3)where we coded a a button and LEDs to signal a countdown for a launchpad. For this section, we added a servo that would rotate at 
+### Evidence 
+
+![ezgif-5-65834ec99f](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/fbb3ac5c-5c73-4c47-8530-02ba06b33c33)
+
+### Wiring
+
+
+
+### Code
+
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_3.py)
+
+### Reflection
 
 &nbsp;
+
+
 
 
 ## Onshape_Assignment_Template
