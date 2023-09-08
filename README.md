@@ -38,7 +38,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where
 
 ### Evidence 
 
-
+![ezgif-3-4d9a5797d6](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/ea34df20-a0a2-4264-a263-71d09dffac38)
 
 ### Wiring
 
@@ -49,7 +49,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_2.py)
 
 ### Reflection
-I ran into very few issues while coding this portion of the assignment, and the issues I did encounter were very minor. For example, 
+I ran into very few issues while coding this portion of the assignment, and the issues I did encounter were very minor. For example, I had trouble with 
 
 
 &nbsp;
