@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Launchpad 1](#Raspberry_Pi_Launchpad_1)
+* [Launchpad 2](#Raspberry_Pi_Launchpad_2)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -24,7 +25,29 @@ For this assignment we were tasked with creating a countdown from 10 that displa
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This was my first time coding in circuit python in a while, and my first time using the pico, so I was bound to run into issues. Thankfully, they were all relatively minor and I was able to figure them out. I had some trouble with the new file organization of the picos, I was trying to run code from a new vs code file, but learned that in order to run code on the picos, you have to use the code.py file found on the actual pico drive. I also had some trouble remembering how to use "for" loops, but after reading over [this site](https://www.w3schools.com/python/gloss_python_for_range.asp) I was ablle to remember when and how to use them to help me finish this assignment. 
+
+&nbsp;
+
+## Raspberry_Pi_Launchpad_2
+
+### Assignment Description
+
+For this assignment we were tasked with creating a countdown from 10 that displayed on the serial moniter, at the end of the countdown, LIFTOFF should be printed.
+
+### Evidence 
+
+
+
+### Wiring
+
+### Code
+
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_1.py)
+
+### Reflection
+
+
 
 &nbsp;
 
