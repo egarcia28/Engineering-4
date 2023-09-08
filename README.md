@@ -5,6 +5,7 @@
 ## Table of Contents
 * [Launchpad 1](#Raspberry_Pi_Launchpad_1)
 * [Launchpad 2](#Raspberry_Pi_Launchpad_2)
+* [Launchpad 3](#Raspberry_Pi_Launchpad_3)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -33,23 +34,50 @@ This was my first time coding in circuit python in a while, and my first time us
 
 ### Assignment Description
 
-For this assignment we were tasked with creating a countdown from 10 that displayed on the serial moniter, at the end of the countdown, LIFTOFF should be printed.
+For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where we coded a countdown for a lauchpad, and added 2 LEDs to it. One red LED to blink as it counted down, and one green LED to signify liftoff.
 
 ### Evidence 
 
-
+![ezgif-5-65834ec99f](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/fbb3ac5c-5c73-4c47-8530-02ba06b33c33)
 
 ### Wiring
 
+
+
 ### Code
 
-[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_1.py)
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_2.py)
 
 ### Reflection
 
 
 
 &nbsp;
+
+## Raspberry_Pi_Launchpad_3
+
+### Assignment Description
+
+For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where we coded a countdown for a lauchpad, and added 2 LEDs to it. One red LED to blink as it counted down, and one green LED to signify liftoff.
+
+### Evidence 
+
+![ezgif-5-65834ec99f](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/fbb3ac5c-5c73-4c47-8530-02ba06b33c33)
+
+### Wiring
+
+
+
+### Code
+
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_2.py)
+
+### Reflection
+
+
+
+&nbsp;
+
 
 ## Onshape_Assignment_Template
 
