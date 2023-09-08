@@ -38,7 +38,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where
 
 ### Evidence 
 
-![ezgif-5-65834ec99f](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/fbb3ac5c-5c73-4c47-8530-02ba06b33c33)
+
 
 ### Wiring
 
@@ -49,7 +49,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_2.py)
 
 ### Reflection
-
+I ran into very few issues while coding this portion of the assignment, and the issues I did encounter were very minor. For example, 
 
 
 &nbsp;
@@ -58,7 +58,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where
 
 ### Assignment Description
 
-For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where we coded a countdown for a lauchpad, and added 2 LEDs to it. One red LED to blink as it counted down, and one green LED to signify liftoff.
+For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) and [2](#Raspberry_Pi_Launchpad_2) where we coded a countdown and 2 LEDs for a launchpad. For this portion we added a button to signal the beginning of the countdown.
 
 ### Evidence 
 
