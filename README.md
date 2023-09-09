@@ -26,7 +26,7 @@ For this assignment we were tasked with creating a countdown from 10 that displa
 
 ### Reflection
 
-This was my first time coding in circuit python in a while, and my first time using the pico, so I was bound to run into issues. Thankfully, they were all relatively minor and I was able to figure them out. I had some trouble with the new file organization of the picos, I was trying to run code from a new vs code file, but learned that in order to run code on the picos, you have to use the code.py file found on the actual pico drive. I also had some trouble remembering how to use "for" loops, but after reading over [this site](https://www.w3schools.com/python/gloss_python_for_range.asp) I was ablle to remember when and how to use them to help me finish this assignment. 
+This was my first time coding in circuit python in a while, and my first time using the pico, so I was bound to run into issues. Thankfully, they were all relatively minor and I was able to figure them out. I had some trouble with the new file organization of the picos, I was trying to run code from a new vs code file, but learned that in order to run code on the picos, you have to use the code.py file found on the actual pico drive. I also had some trouble remembering how to use "for" loops, but after reading over [this site](https://www.w3schools.com/python/gloss_python_for_range.asp) I was able to remember when, and how to use them to help me finish this assignment. 
 
 &nbsp;
 
@@ -49,7 +49,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_2.py)
 
 ### Reflection
-I ran into very few issues while coding this portion of the assignment, and the issues I did encounter were very minor. For example, I had trouble with 
+I ran into very few issues while coding this portion of the assignment, and the issues I did encounter were very minor. For example, I had trouble with how to wire the pico, I had the wiring diagram reversed in relation to my board. Another issue I had was forgetting to use ctrl + c to stop running the uploaded code, because I had a loop at the end of my code, it ran indefinitely and prevented me from uploading new code and making changes. All together, it was a relatively quick addition to the previous sections.
 
 
 &nbsp;
@@ -73,6 +73,8 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) and [
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_3.py)
 
 ### Reflection
+During this section, we modified our code in order to start the countdown when a button was pressed. Although I diddn't  run into any major issues during this portion, I did learn alot of useful information about the picos, their logic systems, and how to effectively wire them. For example, unlike boards we have used in the past, they have an internal pull down resistors, this means that the board is able to do much of the wiring for us. Rather than use an external resistor to wire a button, we can use simply one wire to ground and one to 3v. Although this assignment went pretty quickly, I still feel like I learned alot that will be very useful later in the year.
+
 
 &nbsp;
 
@@ -80,7 +82,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) and [
 
 ### Assignment Description
 
-For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](#Raspberry_Pi_Launchpad_2), and [3](#Raspberry_Pi_Launchpad_3)where we coded a a button and LEDs to signal a countdown for a launchpad. For this section, we added a servo that would rotate at 
+For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](#Raspberry_Pi_Launchpad_2), and [3](#Raspberry_Pi_Launchpad_3)where we coded a a button and LEDs to signal a countdown for a launchpad. For this section, we added a servo that would rotate 180&deg when the countdown reached 0, or liftoff began.
 ### Evidence 
 
 ![ezgif-5-65834ec99f](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/fbb3ac5c-5c73-4c47-8530-02ba06b33c33)
@@ -94,10 +96,9 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_3.py)
 
 ### Reflection
+In this section of the launchpad assignment, we added a servo to the existing code and wiring. Although it was really only  a few lines of code, it was a really good refresher as to how to code servos, and their interactions with other physical and code components. The process of wiring the servo was also relatively straightforward, although I did learn that you need to be very careful when working with 5v on the picos, they have no short-protection, so if you mistake ground and 5v you can easily fry the board.
 
 &nbsp;
-
-
 
 
 ## Onshape_Assignment_Template
