@@ -42,7 +42,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where
 
 ### Wiring
 
-
+![Wiring_launchpad2]()
 
 ### Code
 
@@ -66,7 +66,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) and [
 
 ### Wiring
 
-
+![Wiring_launchpad3]()
 
 ### Code
 
@@ -89,7 +89,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](
 
 ### Wiring
 
-
+![Wiring_launchpad4]()
 
 ### Code
 
