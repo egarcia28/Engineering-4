@@ -18,7 +18,7 @@ For this assignment we were tasked with creating a countdown from 10 that displa
 
 ### Evidence 
 
-![ezgif-3-b980af260b](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/d6981811-ca07-442e-838a-f10ebdc2a6cd)
+![Evidence_launchpad1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/266376856-d6981811-ca07-442e-838a-f10ebdc2a6cd.gif)
 
 ### Code
 
@@ -38,11 +38,11 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) where
 
 ### Evidence 
 
-![ezgif-3-4d9a5797d6](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/ea34df20-a0a2-4264-a263-71d09dffac38)
+![Evidence_launchpad2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/266664910-ea34df20-a0a2-4264-a263-71d09dffac38.gif)
 
 ### Wiring
 
-![Wiring_launchpad2]()
+![Wiring_launchpad2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/IMG-2678.jpg)
 
 ### Code
 
@@ -62,11 +62,11 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1) and [
 
 ### Evidence 
 
-![ezgif-5-65834ec99f](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/fbb3ac5c-5c73-4c47-8530-02ba06b33c33)
+![Evidence_launchpad3](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/266645327-fbb3ac5c-5c73-4c47-8530-02ba06b33c33.gif)
 
 ### Wiring
 
-![Wiring_launchpad3]()
+![Wiring_launchpad3](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/IMG-2679.jpg)
 
 ### Code
 
@@ -85,11 +85,11 @@ During this section, we modified our code in order to start the countdown when a
 For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](#Raspberry_Pi_Launchpad_2), and [3](#Raspberry_Pi_Launchpad_3)where we coded a a button and LEDs to signal a countdown for a launchpad. For this section, we added a servo that would rotate 180&deg when the countdown reached 0, or liftoff began.
 ### Evidence 
 
-![ezgif-5-65834ec99f](https://github.com/egarcia28/Engineering_4_Notebook/assets/112961319/fbb3ac5c-5c73-4c47-8530-02ba06b33c33)
+![Evidence_launchpad4](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/ezgif-3-d803740028.gif)
 
 ### Wiring
 
-![Wiring_launchpad4]()
+![Wiring_launchpad4](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/IMG-2680.jpg)
 
 ### Code
 
