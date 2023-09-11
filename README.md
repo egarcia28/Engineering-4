@@ -94,7 +94,7 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](
 
 ### Code
 
-[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_3.py)
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/launchpad_4.py)
 
 ### Reflection
 In this section of the launchpad assignment, we added a servo to the existing code and wiring. Although it was really only  a few lines of code, it was a really good refresher as to how to code servos, and their interactions with other physical and code components. The process of wiring the servo was also relatively straightforward, although I did learn that you need to be very careful when working with 5v on the picos, they have no short-protection, so if you mistake ground and 5v you can easily fry the board.
