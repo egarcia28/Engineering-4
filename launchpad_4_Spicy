@@ -20,13 +20,25 @@ servo1.angle = 0
 while button.value == False:
     print("ready for liftoff")
 
-for x in range (10):                            #prints numbers 1-10 in ascending order
+
+for x in range (7):                            #prints numbers 1-10 in ascending order
     print(10-x)                                 #changes to print numbers 1-10 in descending order
     led.value = True                            #blinks on and off every second
-    time.sleep(.5)    
-    time.sleep(0.05)
+    time.sleep(.5)
     led.value = False
     time.sleep(.5)
+
+for x in range (3):
+    print(3-x)
+    led.value = True
+    for x in range (10):
+        servo1.angle = servo1.angle + 3
+        time.sleep(.05)
+    led.value = False
+    for x in range(10):
+        servo1.angle = servo1.angle + 3
+        time.sleep(.05)
+
 
 print ("liftoff")
 while True:                                     #Need a loop to continue running code after for loop
@@ -34,3 +46,4 @@ while True:                                     #Need a loop to continue running
     servo1.angle = 180
     time.sleep(5)
     led2.value = True
+    
