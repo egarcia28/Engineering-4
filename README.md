@@ -84,7 +84,7 @@ During this section, we modified our code in order to start the countdown when a
 
 ### Assignment Description
 
-For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](#Raspberry_Pi_Launchpad_2), and [3](#Raspberry_Pi_Launchpad_3)where we coded a a button and LEDs to signal a countdown for a launchpad. For this section, we added a servo that would rotate 180&deg when the countdown reached 0, or liftoff began.
+For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](#Raspberry_Pi_Launchpad_2), and [3](#Raspberry_Pi_Launchpad_3)where we coded a a button and LEDs to signal a countdown for a launchpad. For this section, we added a servo that would rotate 180&deg; when the countdown reached 0, or liftoff began.
 ### Evidence 
 
 ![Evidence_launchpad4](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/ezgif-3-d803740028.gif)
