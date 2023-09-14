@@ -7,6 +7,7 @@
 * [Launchpad 2](#Raspberry_Pi_Launchpad_2)
 * [Launchpad 3](#Raspberry_Pi_Launchpad_3)
 * [Launchpad 4](#Raspberry_Pi_Launchpad_4)
+* [Accelerometer](#Raspberry_Pi_Accelerometer)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -100,6 +101,21 @@ For this assignment we built upon [launchpad_1](#Raspberry_Pi_Launchpad_1), [2](
 In this section of the launchpad assignment, we added a servo to the existing code and wiring. Although it was really only  a few lines of code, it was a really good refresher as to how to code servos, and their interactions with other physical and code components. The process of wiring the servo was also relatively straightforward, although I did learn that you need to be very careful when working with 5v on the picos, they have no short-protection, so if you mistake ground and 5v you can easily fry the board.
 
 &nbsp;
+
+## Raspberry_Pi_Accelerometer
+
+### Assignment Description
+
+
+### Evidence 
+
+![]()
+
+### Code
+
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer.py)
+
+### Reflection
 
 
 ## Onshape_Assignment_Template
