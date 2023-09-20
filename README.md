@@ -7,7 +7,8 @@
 * [Launchpad 2](#Raspberry_Pi_Launchpad_2)
 * [Launchpad 3](#Raspberry_Pi_Launchpad_3)
 * [Launchpad 4](#Raspberry_Pi_Launchpad_4)
-* [Accelerometer](#Raspberry_Pi_Accelerometer1)
+* [Accelerometer_1](#Raspberry_Pi_Accelerometer_1)
+* [Accelerometer_2](#Raspberry_Pi_Accelerometer_2)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -102,7 +103,7 @@ In this section of the launchpad assignment, we added a servo to the existing co
 
 &nbsp;
 
-## Raspberry_Pi_Accelerometer1
+## Raspberry_Pi_Accelerometer_1
 
 ### Assignment Description
 
@@ -116,6 +117,23 @@ In this section of the launchpad assignment, we added a servo to the existing co
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer.py)
 
 ### Reflection
+
+
+## Raspberry_Pi_Accelerometer_2
+
+### Assignment Description
+
+
+### Evidence 
+
+![Evidence Accelerometer1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
+
+### Code
+
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer2.py)
+
+### Reflection
+
 
 
 ## Onshape_Assignment_Template
