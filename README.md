@@ -107,17 +107,20 @@ In this section of the launchpad assignment, we added a servo to the existing co
 
 ### Assignment Description
 
+For this assignment we were tasked with linking an accelerometer with the pico using i2c, we were then able to take values for x, y, and z acceleration and print them on the serial moniter.
 
 ### Evidence 
 
 ![Evidence Accelerometer1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/ezgif-1-9ddb8fe37b.gif)
+
+### Wiring
 
 ### Code
 
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer.py)
 
 ### Reflection
-
+Although, conceptually there was'nt any new content we had to learn for this assignment, I still learned quite a bit about I2C devices, and how to use "F strings".   
 
 ## Raspberry_Pi_Accelerometer_2
 
