@@ -7,8 +7,8 @@
 * [Launchpad 2](#Raspberry_Pi_Launchpad_2)
 * [Launchpad 3](#Raspberry_Pi_Launchpad_3)
 * [Launchpad 4](#Raspberry_Pi_Launchpad_4)
-* [Accelerometer_1](#Raspberry_Pi_Accelerometer_1)
-* [Accelerometer_2](#Raspberry_Pi_Accelerometer_2)
+* [Accelerometer 1](#Raspberry_Pi_Accelerometer_1)
+* [Accelerometer 2](#Raspberry_Pi_Accelerometer_2)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -120,16 +120,19 @@ For this assignment we were tasked with linking an accelerometer with the pico u
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer.py)
 
 ### Reflection
-Although, conceptually there was'nt any new content we had to learn for this assignment, I still learned quite a bit about I2C devices, and how to use "F strings".   
+For this assignment I learned quite a lot about I2C devices, and how to use "F strings". Despite the fact that I have used I2C devices before, I have never used them on the pico's so, the setup was quite different, especially since we were initializing it to be compatible with 2 I2C devices on the same pins, namely the OLED screens which we will be adding in the future. Another useful python feature I learned while working through this assignment was how to use "F strings", F strings are a way of printing formated variables in python. [This](https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/) website was incredibly useful in learning how to effectively use F strings.
 
 ## Raspberry_Pi_Accelerometer_2
 
 ### Assignment Description
 
+On this assignment we built upon the previous crash avoidance system by adding a light which indicates when the accelerometer has been rotated 90&deg;, we also added a external LIPO battery.
 
 ### Evidence 
 
 ![Evidence Accelerometer1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
+
+### Wiring
 
 ### Code
 
@@ -137,7 +140,7 @@ Although, conceptually there was'nt any new content we had to learn for this ass
 
 ### Reflection
 
-
+During this assignment I mostly dealt with concepts I was very familliar with, such as LEDs and wiring external power, but I was able to expand upon my knowledge with these in a way that logically added the next step to the current crash detection. Another new python feature I learned how to use was ``` :.3f``` in order to limit the number of decimals printed. Although this wasnt strictly part of this assignment, it made my output alot neater, and I knew it was a required aspect of the next assignment.  Lots of thanks to [Pinocchio](https://en.wikipedia.org/wiki/Pinocchio?scrlybrkr=973947e4) for help with the wiring on this assignment, at first I found it quite complicated, but he clearly explained it to me.
 
 ## Onshape_Assignment_Template
 
