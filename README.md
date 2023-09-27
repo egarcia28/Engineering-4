@@ -9,6 +9,7 @@
 * [Launchpad 4](#Raspberry_Pi_Launchpad_4)
 * [Accelerometer 1](#Raspberry_Pi_Accelerometer_1)
 * [Accelerometer 2](#Raspberry_Pi_Accelerometer_2)
+* [Accelerometer 3](#Raspberry_Pi_Accelerometer_3)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -115,6 +116,8 @@ For this assignment we were tasked with linking an accelerometer with the pico u
 
 ### Wiring
 
+![Wiring_Accelerometer1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer1%20wiring.jpg)
+
 ### Code
 
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer.py)
@@ -130,9 +133,11 @@ On this assignment we built upon the previous crash avoidance system by adding a
 
 ### Evidence 
 
-![Evidence Accelerometer1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
+![Evidence Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
 
 ### Wiring
+
+![Wiring_Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer2%20wiring.jpg)
 
 ### Code
 
@@ -141,6 +146,25 @@ On this assignment we built upon the previous crash avoidance system by adding a
 ### Reflection
 
 During this assignment I mostly dealt with concepts I was very familliar with, such as LEDs and wiring external power, but I was able to expand upon my knowledge with these in a way that logically added the next step to the current crash detection. Another new python feature I learned how to use was ``` :.3f``` in order to limit the number of decimals printed. Although this wasnt strictly part of this assignment, it made my output alot neater, and I knew it was a required aspect of the next assignment.  Lots of thanks to [Pinocchio](https://en.wikipedia.org/wiki/Pinocchio?scrlybrkr=973947e4) for help with the wiring on this assignment, at first I found it quite complicated, but he clearly explained it to me.
+
+## Raspberry_Pi_Accelerometer_3
+
+### Assignment Description
+
+
+### Evidence 
+
+![Evidence Accelerometer3](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer3.gif)
+
+### Wiring
+
+### Code
+
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer3.py)
+
+### Reflection
+
+
 
 ## Onshape_Assignment_Template
 
