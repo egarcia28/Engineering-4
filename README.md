@@ -151,12 +151,15 @@ During this assignment I mostly dealt with concepts I was very familliar with, s
 
 ### Assignment Description
 
+For this assignment we expanded both our crash avoidance systems as well as our knowledge of I2C devices by adding a OLED screen to our system that would display values of angular velocity for x,y, and z.
 
 ### Evidence 
 
 ![Evidence Accelerometer3](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer3.gif)
 
 ### Wiring
+
+![Wiring_Accelerometer3](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer3.jpg)
 
 ### Code
 
