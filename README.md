@@ -167,7 +167,7 @@ For this assignment we expanded both our crash avoidance systems as well as our 
 
 ### Reflection
 
-
+This assignment was the first time I had used an OLED screen, so it brought with it it's own set of challenges
 
 ## Onshape_Assignment_Template
 
