@@ -167,7 +167,7 @@ For this assignment we expanded both our crash avoidance systems as well as our 
 
 ### Reflection
 
-This assignment was the first time I had used an OLED screen, so it brought with it it's own set of challenges
+This assignment was the first time I had used an OLED screen, so it brought with it it's own set of challenges, at first I was unable to locate the I2C address of the OLED, this was because I was using 3V3 EN to power my OLED and accelerometer. This was a problem because 3V3 EN is a pin to help debug the pico, and while it does ouput power for some uses ( which is why my accelerometer worked fine ) it does not work to power multiple devices. Another problem I ran into was setting up and printing the angular velocity on the OLED, because it was a new format, I was not used to printing on the OLED and had to re-read the assignment several times.
 
 ## Onshape_Assignment_Template
 
