@@ -10,7 +10,8 @@
 * [Crash Avoidance 1](#Raspberry_Pi_Crash_Avoidance_1)
 * [Crash Avoidance 2](#Raspberry_Pi_Crash_Avoidance_2)
 * [Crash Avoidance 3](#Raspberry_Pi_Crash_Avoidance_3)
-* [Onshape_Beam_Part1](#Onshape_Beam_Part1)
+* [Onshape_Beam_Part 1](#Onshape_Beam_Part1)
+* [Onshape_Beam_Part 2](#Onshape_Beam_Part2)
 
 &nbsp;
 
@@ -125,6 +126,8 @@ For this assignment we were tasked with linking an accelerometer with the pico u
 ### Reflection
 For this assignment I learned quite a lot about I2C devices, and how to use "F strings". Despite the fact that I have used I2C devices before, I have never used them on the pico's so, the setup was quite different, especially since we were initializing it to be compatible with 2 I2C devices on the same pins, namely the OLED screens which we will be adding in the future. Another useful python feature I learned while working through this assignment was how to use "F strings", F strings are a way of printing formated variables in python. [This](https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/) website was incredibly useful in learning how to effectively use F strings.
 
+&nbsp;
+
 ## Raspberry_Pi_Crash_Avoidance_2
 
 ### Assignment Description
@@ -146,6 +149,8 @@ On this assignment we built upon the previous crash avoidance system by adding a
 ### Reflection
 
 During this assignment I mostly dealt with concepts I was very familliar with, such as LEDs and wiring external power, but I was able to expand upon my knowledge with these in a way that logically added the next step to the current crash detection. Another new python feature I learned how to use was ``` :.3f``` in order to limit the number of decimals printed. Although this wasnt strictly part of this assignment, it made my output alot neater, and I knew it was a required aspect of the next assignment.  Lots of thanks to [Pinocchio](https://en.wikipedia.org/wiki/Pinocchio?scrlybrkr=973947e4) for help with the wiring on this assignment, at first I found it quite complicated, but he clearly explained it to me.
+
+&nbsp;
 
 ## Raspberry_Pi_Crash_Avoidance_3
 
@@ -169,6 +174,8 @@ For this assignment we expanded both our crash avoidance systems as well as our 
 
 This assignment was the first time I had used an OLED screen, so it brought with it it's own set of challenges, at first I was unable to locate the I2C address of the OLED, this was because I was using 3V3 EN to power my OLED and accelerometer. This was a problem because 3V3 EN is a pin to help debug the pico, and while it does ouput power for some uses ( which is why my accelerometer worked fine ) it does not work to power multiple devices. Another problem I ran into was setting up and printing the angular velocity on the OLED, because it was a new format, I was not used to printing on the OLED and had to re-read the assignment several times.
 
+&nbsp;
+
 ## Onshape_Beam_Part1
 
 ### Assignment Description
@@ -186,5 +193,5 @@ This was the first section of our beam assignment, the goal being to design and 
 ### Reflection
 Like many other groups, we began by reasearching [beam theory](https://en.wikipedia.org/wiki/Euler%E2%80%93Bernoulli_beam_theory#:~:text=Euler%E2%80%93Bernoulli%20beam%20theory%20), a study of how load bearing beams behave elastically and deflect. We then looked into succesful cantilever beam designs, as well as commonplace beam designs that are very prevalent, such as I-Beams ( simillar to the design we ended up going with ). We then began to design our beam using ideas we had gathered, an I-Beam adjacent design with a strong load bearing top section with 45&deg; chamfers to increase strength and printability constraints of the assignment. Other strategic design choices we made include, a thin middle section, as well as holes along the middle and bottom, to reduce mass on a relatively low load bearing components. We also had to make sure that there were no vertical angles above 45&deg; as that was one of our design constraints due to the printer only being able to print up to 45&deg;. Lots of thanks to [Komaram Bheem](https://en.wikipedia.org/wiki/Komaram_Bheem?scrlybrkr=973947e4) for help with the pronunciation and etymology of his name, as well as help with certain aspects of our design.
 
-
 &nbsp;
+
