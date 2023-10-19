@@ -195,3 +195,24 @@ Like many other groups, we began by reasearching [beam theory](https://en.wikipe
 
 &nbsp;
 
+## Onshape_Beam_Part1
+
+
+
+### Assignment Description
+
+
+
+### Part Link 
+
+
+
+### Part Image
+
+
+### Reflection
+
+
+&nbsp;
+
+
