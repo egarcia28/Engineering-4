@@ -197,17 +197,15 @@ Like many other groups, we began by reasearching [beam theory](https://en.wikipe
 
 ## Onshape_Beam_Part2
 
-
-
 ### Assignment Description
-
-
+For this assignment we built upon our first beam design using Onshape's built in FEA analysis software to determine areas of high stress and displacement in order to edit our design to account for these flaws in our first design.
 
 ### Part Link 
 
-
+[Link to our Onshape document](https://cvilleschools.onshape.com/documents/bbb8fb04f2c7e9a26ef00d6f/w/8353d61f44a10197441fa346/e/12a872e8fa7823561546f9c6)
 
 ### Part Image
+
 
 
 ### Reflection
