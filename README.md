@@ -205,7 +205,7 @@ For this assignment we built upon our first beam design using Onshape's built in
 [Link to our Onshape document](https://cvilleschools.onshape.com/documents/bbb8fb04f2c7e9a26ef00d6f/w/8353d61f44a10197441fa346/e/12a872e8fa7823561546f9c6)
 
 ### Part Image
-#### All simulations tested with 30N of force
+_All simulations tested with 30N of force_
 ![Beam Stress](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/stress.PNG)
 _FEA sim of stress -- Max stress around 80MPA_
 
