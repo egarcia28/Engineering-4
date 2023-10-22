@@ -12,6 +12,8 @@
 * [Crash Avoidance 3](#Raspberry_Pi_Crash_Avoidance_3)
 * [Onshape_Beam_Part 1](#Onshape_Beam_Part1)
 * [Onshape_Beam_Part 2](#Onshape_Beam_Part2)
+* [Onshape_Beam_Part 3](#Onshape_Beam_Part3)
+
 
 &nbsp;
 
@@ -207,7 +209,7 @@ For this assignment we built upon our first beam design using Onshape's built in
 ### Part Image
 _All simulations tested with 30N of force_
 ![Beam Stress](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/stress.PNG)
-_FEA sim of stress -- Max stress around 80MPA_
+_FEA sim of stress -- Max stress around 80MPa_
 
 ![Beam Safety](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/saftey.PNG)
 _FEA sim of safety factor -- Min around .4_
@@ -220,9 +222,10 @@ After running the FEA simulation for our initial beam design, we were able to vi
 
 &nbsp;
 
-## Onshape_Beam_Part2
+## Onshape_Beam_Part3
 
 ### Assignment Description
+For this section of the beam assignment we first improved our design based on the Onshape FEA simulation, and then tested the improved design in the real world giving us much more accurate results allowing us to iterate on our design once again with accurate, real world data.
 
 ### Part Link 
 
@@ -230,15 +233,19 @@ After running the FEA simulation for our initial beam design, we were able to vi
 
 ### Part Image
 
-![Beam Stress]()
-_FEA sim of stress (MPA)_
+![Beam2 Stress](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/stress%202.png)
+_FEA sim of stress 2nd iteration (MPa)_
 
-![Beam Safety]()
-_FEA sim of safety factor_
+![Beam3 Stress](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/stress%203.png)
+_FEA sim of stress 3rd iteration (MPa)_
 
-![Beam Displacement]()
-_FEA sim of displacement_
+![Beam2 Displacement](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/displacement%202.png)
+_FEA sim of displacement 2nd iteration_
+
+![Beam3 Displacement](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/displacement%203.png)
+_FEA sim of displacement 3rd iteration_
+
 
 ### Reflection
-
+When it came to improving our design based on our first FEA simulation, we just added some simple changes to better distribute the stress. These changes include, removing material from the sides by connecting the holes together, and adding that material to the top rail near the base and weight through some simple chamfers and extrusions. When we tested this in the real world we did pretty well and held a decent ammount of weight, but our beam ultimately broke due to the lack of support on the sides created by the singular long hole, causing it to bend sideways and break much quicker. When we went back to Onshape to improve our design from the real world results, we re-connected all of the holes to add support and prevent the beam from twisting, we also added a secondary rail on the top in order to better distribute the stress. When testing our 3rd iteration in the real world it held much more weight and diddn't twist, when it finally broke it shattered showing that we had done a pretty good job of distributing the stress.  
 &nbsp;
