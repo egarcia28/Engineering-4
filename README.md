@@ -13,7 +13,8 @@
 * [Onshape_Beam_Part 1](#Onshape_Beam_Part1)
 * [Onshape_Beam_Part 2](#Onshape_Beam_Part2)
 * [Onshape_Beam_Part 3](#Onshape_Beam_Part3)
-
+* [Landing Area 1](#Raspberry_Pi_Landing_Area_1)
+* [Landing Area 2](#Raspberry_Pi_Landing_Area_2)
 
 &nbsp;
 
@@ -248,4 +249,32 @@ _FEA sim of displacement 3rd iteration_
 
 ### Reflection
 When it came to improving our design based on our first FEA simulation, we just added some simple changes to better distribute the stress. These changes include, removing material from the sides by connecting the holes together, and adding that material to the top rail near the base and weight through some simple chamfers and extrusions. When we tested this in the real world we did pretty well and held a decent ammount of weight, but our beam ultimately broke due to the lack of support on the sides created by the singular long hole, causing it to bend sideways and break much quicker. When we went back to Onshape to improve our design from the real world results, we re-connected all of the holes to add support and prevent the beam from twisting, we also added a secondary rail on the top in order to better distribute the stress. When testing our 3rd iteration in the real world it held much more weight and diddn't twist, when it finally broke it shattered showing that we had done a pretty good job of distributing the stress.  
+
+&nbsp;
+
+## Raspberry_Pi_Landing_Area_1
+
+### Assignment Description
+
+### Evidence 
+![Evidence Accelerometer1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/ezgif-1-9ddb8fe37b.gif)
+### Code
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer.py)
+### Reflection
+
+&nbsp;
+
+## Raspberry_Pi_Landing_Area_2
+### Assignment Description
+
+### Evidence 
+![Evidence Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
+### Wiring
+![Wiring_Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer2%20wiring.jpg)
+### Code
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer2.py)
+
+### Reflection
+
+
 &nbsp;
