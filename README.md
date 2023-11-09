@@ -258,9 +258,9 @@ When it came to improving our design based on our first FEA simulation, we just 
 ### Assignment Description
 
 ### Evidence 
-![Evidence Accelerometer1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/ezgif-1-9ddb8fe37b.gif)
+![Evidence Landing Area 1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/landingarea1.gif)
 ### Code
-[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer.py)
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area_1.py)
 ### Reflection
 
 &nbsp;
@@ -273,7 +273,7 @@ When it came to improving our design based on our first FEA simulation, we just 
 ### Wiring
 ![Wiring_Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer2%20wiring.jpg)
 ### Code
-[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer2.py)
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area_2.py)
 
 ### Reflection
 
@@ -283,9 +283,8 @@ When it came to improving our design based on our first FEA simulation, we just 
 ### Assignment Description
 
 ### Evidence 
-![Evidence Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
-### Wiring
-![Wiring_Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer2%20wiring.jpg)
+![Evidence Morse Code 1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode1.gif)
+
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer2.py)
 
