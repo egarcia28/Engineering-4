@@ -15,6 +15,7 @@
 * [Onshape_Beam_Part 3](#Onshape_Beam_Part3)
 * [Landing Area 1](#Raspberry_Pi_Landing_Area_1)
 * [Landing Area 2](#Raspberry_Pi_Landing_Area_2)
+* [Morse Code 1](#Raspberry_Pi_Morse_Code_1)
 
 &nbsp;
 
@@ -265,6 +266,20 @@ When it came to improving our design based on our first FEA simulation, we just 
 &nbsp;
 
 ## Raspberry_Pi_Landing_Area_2
+### Assignment Description
+
+### Evidence 
+![Evidence Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
+### Wiring
+![Wiring_Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer2%20wiring.jpg)
+### Code
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer2.py)
+
+### Reflection
+
+
+&nbsp;
+## Raspberry_Pi_Morse_Code_1
 ### Assignment Description
 
 ### Evidence 
