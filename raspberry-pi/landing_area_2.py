@@ -32,8 +32,18 @@ def total_area (set1, set2, set3):
 
         area = abs((x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))*.5)
         splash = displayio.Group()
-
-
+        print(f"\nThe area of the triangle with the coordinates ({x1},{y1}), ({x2},{y2}), ({x3},{y3}) is {area} km squared")
+        hline = Line(0,32,128,32, color=0xFFFF00)
+        splash.append(hline)
+        vline = Line(64,64,64,0, color=0xFFFF00)
+        splash.append(vline)
+        triangle = Triangle(int(x1+64), int(-y1+32), int(x2+64), int(-y2+32), int(x3+64), int(-y3+32), outline=0xFFFF00)
+        splash.append(triangle)
+        title = f"Area: {area}"
+        text_area = label.Label(terminalio.FONT, text = title, color = 0xFFFF00, x = 5, y= 5)
+        splash.append(text_area)
+        display.show(splash)    
+        
         return area
 
     except:
