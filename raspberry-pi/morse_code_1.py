@@ -16,10 +16,11 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
 
 string = (input())
 string = string.upper()
-
-for x in range(len(string))
-    if string[x] == '-' and string[x+1] == 'Q':
+while True:
+    string = input("Enter message or -Q to quit")
+    if string == '-Q':
         break
-    else:
-        print(MORSE_CODE[string[x]])
-        print(" ")
+string = string.upper()
+for x in range(len(string)):
+        print(f"{MORSE_CODE[string[x]]} ")
+        
