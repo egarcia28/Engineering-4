@@ -271,7 +271,7 @@ When it came to improving our design based on our first FEA simulation, we just 
 ### Evidence 
 ![Evidence Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
 ### Wiring
-![Wiring_Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer2%20wiring.jpg)
+![Wiring_Landingarea2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/landingareawiring.jpg)
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area_2.py)
 
@@ -286,7 +286,7 @@ When it came to improving our design based on our first FEA simulation, we just 
 ![Evidence Morse Code 1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode1.gif)
 
 ### Code
-[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/accelerometer2.py)
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/morse_code_1.py)
 
 ### Reflection
 
