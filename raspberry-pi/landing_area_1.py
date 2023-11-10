@@ -3,22 +3,22 @@ import board
 
 def total_area (set1, set2, set3):
     try:
-        set1 = set1.split(',')
+        set1 = set1.split(',')                  #splits each ordered pair at the comma
         set2 = set2.split(',')
         set3 = set3.split(',')
 
-        x1 = float(set1[0])
+        x1 = float(set1[0])                     #assigns each x and y value to its own separate float
         y1 = float(set1[1])
         x2 = float(set1[0])
         y2 = float(set1[1])
         x3 = float(set1[0])
         y3 = float(set1[1])
 
-        area = abs((x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))/2)
+        area = abs((x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))/2)        #formula for area of ordered pair triangle
 
         return area
 
-    except:
+    except:                                                     #if invalid
         print("These points are invalid, try again")
         area = 0
         return area
