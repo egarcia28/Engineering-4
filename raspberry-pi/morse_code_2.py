@@ -55,5 +55,5 @@ while True:
         if y == '/':
             led.value = True
             time.sleep(between_words)
-            led.value = False    
+        led.value = False    
         time.sleep(between_letters)
