@@ -266,7 +266,7 @@ This was  helpful learning experience as I had never used the REPL to input valu
 
 ## Raspberry_Pi_Landing_Area_2
 ### Assignment Description
-
+For this assignment, we built upon the program we coded for [Landing Area 1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/README.md#raspberry_pi_landing_area_1) by adding an OLED screen and displaying the triangle input, plotted onto the OLED.
 ### Evidence 
 ![Evidence lLanding Area 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/landingarea2.gif)
 ### Wiring
@@ -275,7 +275,7 @@ This was  helpful learning experience as I had never used the REPL to input valu
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area_2.py)
 
 ### Reflection
-
+Because we had used the OLED screens in a [prevoius assignment](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/README.md#raspberry_pi_landing_area_1), I already felt somewhat confident in their use, one difference from the prevous assignment was that we only had to accoount for one I2C device in our code which pared down alot of the confusion I had surrounding the OLED before. Another thing I had trouble with was 
 
 &nbsp;
 ## Raspberry_Pi_Morse_Code_1
