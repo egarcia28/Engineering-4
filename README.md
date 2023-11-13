@@ -254,29 +254,28 @@ When it came to improving our design based on our first FEA simulation, we just 
 &nbsp;
 
 ## Raspberry_Pi_Landing_Area_1
-
 ### Assignment Description
-
+For this assignment we were tasked with writing a program that would take user input for 3 ordered pairs, and then calculate and display the area of the triangle they created using functions.
 ### Evidence 
 ![Evidence Landing Area 1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/landingarea1.gif)
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area_1.py)
 ### Reflection
-
+This was  helpful learning experience as I had never used the REPL to input values for a program, as well as functions to formulate an output based on the inputs given. I did run into some trouble at first because I mixed up the naming conventions I had set for each set of ordered pairs but after careful exxamination I figured it out relatively quickly. Due to this being an entirely PICO contained assignment, there wasn't any wiring to throw me off, and any errors I encountered stemmed from my own incompetence, but I eventually got my program up and running.
 &nbsp;
 
 ## Raspberry_Pi_Landing_Area_2
 ### Assignment Description
-
+For this assignment, we built upon the program we coded for [Landing Area 1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/README.md#raspberry_pi_landing_area_1) by adding an OLED screen and displaying the triangle input, plotted onto the OLED.
 ### Evidence 
-![Evidence Accelerometer2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/accelerometer2.gif)
+![Evidence lLanding Area 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/landingarea2.gif)
 ### Wiring
-![Wiring_Landingarea2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/landingareawiring.jpg)
+![Wiring_Landing Area 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/landingareawiring.jpg)
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area_2.py)
 
 ### Reflection
-
+Because we had used the OLED screens in a [prevoius assignment](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/README.md#raspberry_pi_landing_area_1), I already felt somewhat confident in their use, one difference from the prevous assignment was that we only had to accoount for one I2C device in our code which pared down alot of the confusion I had surrounding the OLED before. Another thing I had trouble with was 
 
 &nbsp;
 ## Raspberry_Pi_Morse_Code_1
@@ -287,6 +286,20 @@ When it came to improving our design based on our first FEA simulation, we just 
 
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/morse_code_1.py)
+
+### Reflection
+
+
+&nbsp;
+
+## Raspberry_Pi_Morse_Code_2
+### Assignment Description
+
+### Evidence 
+![Evidence Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode2.gif)
+
+### Code
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/morse_code_2.py)
 
 ### Reflection
 
