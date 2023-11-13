@@ -8,7 +8,7 @@
     "python.analysis.extraPaths": [
         "c:\\Users\\egarcia28.CCS\\.vscode\\extensions\\joedevivo.vscode-circuitpython-0.1.20-win32-x64\\boards\\0x239A\\0x8120",
         "c:\\Users\\egarcia28.CCS\\.vscode\\extensions\\joedevivo.vscode-circuitpython-0.1.20-win32-x64\\stubs",
-        "c:\\Users\\egarcia28.CCS\\AppData\\Roaming\\Code\\User\\globalStorage\\joedevivo.vscode-circuitpython\\bundle\\20231109\\adafruit-circuitpython-bundle-py-20231109\\lib"
+        "c:\\Users\\egarcia28.CCS\\AppData\\Roaming\\Code\\User\\globalStorage\\joedevivo.vscode-circuitpython\\bundle\\20231113\\adafruit-circuitpython-bundle-py-20231113\\lib"
     ],
     "picowgo.syncFolder": "",
     "picowgo.openOnStart": true,
