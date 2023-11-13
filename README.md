@@ -261,7 +261,7 @@ For this assignment we were tasked with writing a program that would take user i
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area_1.py)
 ### Reflection
-This was  helpful learning experience as I had never used the REPL to input values for a program, as well as functions to formulate an output based on the inputs given. I did run into some trouble at first because I mixed up the naming conventions I had set for each set of ordered pairs but after careful exxamination I figured it out relatively quickly. Due to this being an entirely PICO contained assignment, there wasn't any wiring to throw me off, and any errors I encountered were stemmed from my own incompetence, but I eventually got my program up and running.
+This was  helpful learning experience as I had never used the REPL to input values for a program, as well as functions to formulate an output based on the inputs given. I did run into some trouble at first because I mixed up the naming conventions I had set for each set of ordered pairs but after careful exxamination I figured it out relatively quickly. Due to this being an entirely PICO contained assignment, there wasn't any wiring to throw me off, and any errors I encountered stemmed from my own incompetence, but I eventually got my program up and running.
 &nbsp;
 
 ## Raspberry_Pi_Landing_Area_2
