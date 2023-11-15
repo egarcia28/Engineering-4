@@ -297,7 +297,8 @@ Because we had used the OLED screens in a [prevoius assignment](https://github.c
 
 ### Evidence 
 ![Evidence Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode2.gif)
-
+### Wiring
+![Wiring Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode2wiring.jpg)
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/morse_code_2.py)
 
