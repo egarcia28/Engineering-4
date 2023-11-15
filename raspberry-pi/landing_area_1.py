@@ -18,7 +18,7 @@ def total_area (set1, set2, set3):
 
         return area
 
-    except:                                                     #if invalid
+    except:                                                     #if invalid retry
         print("These points are invalid, try again")
         area = 0
         return area
