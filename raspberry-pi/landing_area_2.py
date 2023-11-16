@@ -33,9 +33,9 @@ def total_area (set1, set2, set3):
         area = abs((x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))*.5)           #formula for area of ordered pair triangle
         splash = displayio.Group()
         print(f"\nThe area of the triangle with the coordinates ({x1},{y1}), ({x2},{y2}), ({x3},{y3}) is {area} km squared")
-        hline = Line(0,32,128,32, color=0xFFFF00)
+        hline = Line(0,32,128,32, color=0xFFFF00)                  #x axis line
         splash.append(hline)
-        vline = Line(64,64,64,0, color=0xFFFF00)
+        vline = Line(64,64,64,0, color=0xFFFF00)                   #y axis line
         splash.append(vline)
         triangle = Triangle(int(x1+64), int(-y1+32), int(x2+64), int(-y2+32), int(x3+64), int(-y3+32), outline=0xFFFF00)
         splash.append(triangle)
@@ -50,7 +50,7 @@ def total_area (set1, set2, set3):
         print("These points are invalid, try again")                #if invalid retry
 
 while True:
-    in1 = input("Enter the first (x,y) coordinate")
+    in1 = input("Enter the first (x,y) coordinate")                 #input prompts
     in2 = input("Enter the second (x,y) coordinate")
     in3 = input("Enter the third (x,y) coordinate")
 
@@ -59,4 +59,4 @@ while True:
     if areaA == 0:
         continue
     else:
-        print(f"The area of the triangle with verticies ({in1}), ({in2}), ({in3}) is {areaA} square km.")
+        print(f"The area of the triangle with verticies ({in1}), ({in2}), ({in3}) is {areaA} square km.")           #returm statement
