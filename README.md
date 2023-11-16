@@ -16,6 +16,7 @@
 * [Landing Area 1](#Raspberry_Pi_Landing_Area_1)
 * [Landing Area 2](#Raspberry_Pi_Landing_Area_2)
 * [Morse Code 1](#Raspberry_Pi_Morse_Code_1)
+* [Data Storage](#Raspberry_Pi_Data_Storage)
 
 &nbsp;
 
@@ -301,6 +302,22 @@ Because we had used the OLED screens in a [prevoius assignment](https://github.c
 ![Wiring Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode2wiring.jpg)
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/morse_code_2.py)
+
+### Reflection
+
+
+&nbsp;
+
+## Raspberry_Pi_Data_Storage
+### Assignment Description
+
+### Evidence 
+![Evidence Data_Storage](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data.csv)
+![Evidence Data_Storage]()
+### Wiring
+![Wiring Morse Code 2]()
+### Code
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data_storage.py)
 
 ### Reflection
 
