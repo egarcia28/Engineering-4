@@ -21,7 +21,7 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
     '?':'..--..', '/':'-..-.', '-':'-....-',            #collection of letters and their morse code equivalents 
     '(':'-.--.', ')':'-.--.-', ' ': '/'}                #added ' ':'/' to add a slash in -between words
 
-modifier = 0.25
+modifier = 0.25                                         #list of preset delays in between transmission
 dot_time = 1*modifier
 dash_time = 3*modifier
 between_taps = 1*modifier
@@ -39,7 +39,7 @@ while True:
         temp += MORSE_CODE[string[x]] + " "
     print(f"{temp} ")                                   #f string allows to add space in between each letter
 
-    for y in temp:
+    for y in temp:                                      #transmit morse code using LED
         if y == '.':
             led.value = True
             time.sleep(dot_time)
