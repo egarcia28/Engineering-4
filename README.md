@@ -276,12 +276,12 @@ For this assignment, we built upon the program we coded for [Landing Area 1](htt
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area_2.py)
 
 ### Reflection
-Because we had used the OLED screens in a [prevoius assignment](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/README.md#raspberry_pi_landing_area_1), I already felt somewhat confident in their use, one difference from the prevous assignment was that we only had to accoount for one I2C device in our code which pared down alot of the confusion I had surrounding the OLED before. Another thing I had trouble with was figuring out how to display the axes and triangle on the OLED
+Because we had used the OLED screens in a [prevoius assignment](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/README.md#raspberry_pi_landing_area_1), I already felt somewhat confident in their use, one difference from the prevous assignment was that we only had to accoount for one I2C device in our code which pared down alot of the confusion I had surrounding the OLED before. Another thing I had trouble with was figuring out how to display the axes and triangle on the OLED, but after some troubleshooting and re-reading the instructions I was able to better understand the shape libraries.
 
 &nbsp;
 ## Raspberry_Pi_Morse_Code_1
 ### Assignment Description
-
+For this assignment
 ### Evidence 
 ![Evidence Morse Code 1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode1.gif)
 
