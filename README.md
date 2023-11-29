@@ -16,6 +16,7 @@
 * [Landing Area 1](#Raspberry_Pi_Landing_Area_1)
 * [Landing Area 2](#Raspberry_Pi_Landing_Area_2)
 * [Morse Code 1](#Raspberry_Pi_Morse_Code_1)
+* [Morse Code 2](#Raspberry_Pi_Morse_Code_2)
 * [Data Storage](#Raspberry_Pi_Data_Storage)
 
 &nbsp;
