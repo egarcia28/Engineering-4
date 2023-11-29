@@ -281,7 +281,7 @@ Because we had used the OLED screens in a [prevoius assignment](https://github.c
 &nbsp;
 ## Raspberry_Pi_Morse_Code_1
 ### Assignment Description
-For this assignment
+For this assignment we created a relatively simple program where a message of the users choice was input, and in return, the program translated it into morse code.
 ### Evidence 
 ![Evidence Morse Code 1](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode1.gif)
 
@@ -289,7 +289,7 @@ For this assignment
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/morse_code_1.py)
 
 ### Reflection
-
+Although this was a technically easy assignment, I had some trouble with creating the logic portions of the program. For example, this for loop ''' for x in range(len(string)): '''  caused some confusion as I had never worked this in depth with strings in python before, but once I learned some new syntax (to me) for string functions (like "len()") the logic portion of this assignment went pretty fast. One really "cool trick" I used for this assignment was editing the morse code dictionary in order to add a "/" at every instance of a space. 
 
 &nbsp;
 
