@@ -296,16 +296,15 @@ Although this was a technically easy assignment, I had some trouble with creatin
 
 ## Raspberry_Pi_Morse_Code_2
 ### Assignment Description
-
+In this asssignment we built upon [morse code 1](https://github.com/egarcia28/Engineering_4_Notebook#Raspberry_Pi_Morse_Code_1) by bringing our previously, exclusively digital program into the real world, and wiring a LED to diisplay the morse code messages written by the user.
 ### Evidence 
 ![Evidence Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode2.gif)
 ### Wiring
 ![Wiring Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/morsecode2wiring.jpg)
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/morse_code_2.py)
-
 ### Reflection
-
+This was a relatively easy transition from the purely digital program to a physical morse code translator, but it was still really fun nonetheless. I had some minor trouble with the new timings and their names for the LED, but it was pretty self explanitory and I was quickly able to 
 
 &nbsp;
 
