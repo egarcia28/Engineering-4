@@ -18,6 +18,7 @@
 * [Morse Code 1](#Raspberry_Pi_Morse_Code_1)
 * [Morse Code 2](#Raspberry_Pi_Morse_Code_2)
 * [Data Storage](#Raspberry_Pi_Data_Storage)
+* [Data Storage 2](#Raspberry_Pi_Data_Storage_2)
 
 &nbsp;
 
@@ -319,7 +320,7 @@ This was a relatively easy transition from the purely digital program to a physi
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data_storage.py)
 
 ### Reflection
-
+This was a very confusing assignment, and I had a lot of trouble with the really finicky aspects of the data modes and features. One such issue was keeping track of the data.csv file as well as which mode I was in while recording data. On the code front, one issue I encountered was was the odering of 
 
 &nbsp;
 ## Raspberry_Pi_Data_Storage_2
