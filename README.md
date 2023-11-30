@@ -312,10 +312,23 @@ This was a relatively easy transition from the purely digital program to a physi
 ### Assignment Description
 
 ### Evidence 
-![Evidence Data_Storage](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data.csv)
-![Evidence Data_Storage]()
+![Evidence Data_Storage_CSV_File](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data.csv)
 ### Wiring
-![Wiring Morse Code 2]()
+![Wiring Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer3.jpg)
+### Code
+[My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data_storage.py)
+
+### Reflection
+
+
+&nbsp;
+## Raspberry_Pi_Data_Storage_2
+### Assignment Description
+
+### Evidence 
+![Evidence Data_Storage_CSV_File]()
+### Wiring
+![Wiring Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer3.jpg)
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data_storage.py)
 
