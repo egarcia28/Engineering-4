@@ -17,7 +17,7 @@
 * [Landing Area 2](#Raspberry_Pi_Landing_Area_2)
 * [Morse Code 1](#Raspberry_Pi_Morse_Code_1)
 * [Morse Code 2](#Raspberry_Pi_Morse_Code_2)
-* [Data Storage](#Raspberry_Pi_Data_Storage)
+* [Data Storage](#Raspberry_Pi_Data_Storage_1)
 * [Data Storage 2](#Raspberry_Pi_Data_Storage_2)
 
 &nbsp;
@@ -291,7 +291,7 @@ For this assignment we created a relatively simple program where a message of th
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/morse_code_1.py)
 
 ### Reflection
-Although this was a technically easy assignment, I had some trouble with creating the logic portions of the program. For example, this for loop ''' for x in range(len(string)): '''  caused some confusion as I had never worked this in depth with strings in python before, but once I learned some new syntax (to me) for string functions (like "len()") the logic portion of this assignment went pretty fast. One really "cool trick" I used for this assignment was editing the morse code dictionary in order to add a "/" at every instance of a space. 
+Although this was a technically easy assignment, I had some trouble with creating the logic portions of the program. For example, this for loop '''for x in range(len(string))'''  caused some confusion as I had never worked this in depth with strings in python before, but once I learned some new syntax (to me) for string functions (like "len()") the logic portion of this assignment went pretty fast. One really "cool trick" I used for this assignment was editing the morse code dictionary in order to add a "/" at every instance of a space. 
 
 &nbsp;
 
@@ -309,31 +309,32 @@ This was a relatively easy transition from the purely digital program to a physi
 
 &nbsp;
 
-## Raspberry_Pi_Data_Storage
+## Raspberry_Pi_Data_Storage_1
 ### Assignment Description
-
+In this assignment, we were tasked with taking the basis from [a previous assignment](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer2%20wiring.jpg) and adding several things to it in order to record the data captured by the accelepometer.
 ### Evidence 
 ![Evidence Data_Storage_CSV_File](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data.csv)
 ### Wiring
-![Wiring Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer3.jpg)
+![Wiring Data Storage](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer2%20wiring.jpg)
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data_storage.py)
 
 ### Reflection
-This was a very confusing assignment, and I had a lot of trouble with the really finicky aspects of the data modes and features. One such issue was keeping track of the data.csv file as well as which mode I was in while recording data. On the code front, one issue I encountered was was the odering of 
+This was a very confusing assignment, and I had a lot of trouble with the really finicky aspects of the data modes and features. One such issue was keeping track of the data.csv file as well as recognizing which mode I was in while recording data or uploading code. On the code front, one issue I encountered was was the odering of statements within the '''while''' loop.
 
 &nbsp;
 ## Raspberry_Pi_Data_Storage_2
 ### Assignment Description
-
+In this assignment, we were tasked with taking the data we recorded in the prrevoius assignment, and using google sheets to plot and analyze it.
 ### Evidence 
-![Evidence Data_Storage_CSV_File]()
-### Wiring
-![Wiring Morse Code 2](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/Accelerometer3.jpg)
+![Evidence Data_Storage accel graph](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/data%20storage%20graph.PNG)
+Graph of accelerometers acceleration_
+![Evidence Data_Storage tilt graph](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/images/tilt%20data%20storage%20graph.PNG)
+_Graph of the accelerometers tilt_
 ### Code
 [My code is here](https://github.com/egarcia28/Engineering_4_Notebook/blob/main/raspberry-pi/data_storage.py)
 
 ### Reflection
-
+Although this was more of a tutorial than an actual assignment, I did feel like it not only was a very interesting way of looking at data, but also I feel like this knowledge will become very useful when we eventually need to recoord and analyze data collected by our pi in the sky project.
 
 &nbsp;
